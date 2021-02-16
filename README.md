@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="LogoL" src="https://seu.deliverydireto.com.br/wp-content/uploads/2020/06/delivery-man.png" />
+  <img align="center" alt="LogoL" src="https://seu.deliverydireto.com.br/wp-content/uploads/2020/06/delivery-man.png"  whidt="250" height="250"/>
 </p>
 
 <h2 align="center">
