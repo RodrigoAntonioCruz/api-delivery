@@ -9,7 +9,7 @@
 
 ### Contexto
 
-Uma simples `API REST` para um sistema de delivery:
+Uma simples ` API REST` para um sistema de delivery:
 
 <h4>Tecnologias</h4>
 <ul>
